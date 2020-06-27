@@ -1,0 +1,10 @@
+C:\Users\teteo\source\repos\DashPlat\DashPlat\bin\Debug\DashPlat.exe.config
+C:\Users\teteo\source\repos\DashPlat\DashPlat\bin\Debug\DashPlat.exe
+C:\Users\teteo\source\repos\DashPlat\DashPlat\bin\Debug\DashPlat.pdb
+C:\Users\teteo\source\repos\DashPlat\DashPlat\obj\Debug\DashPlat.csprojAssemblyReference.cache
+C:\Users\teteo\source\repos\DashPlat\DashPlat\obj\Debug\DashPlat.Form1.resources
+C:\Users\teteo\source\repos\DashPlat\DashPlat\obj\Debug\DashPlat.Properties.Resources.resources
+C:\Users\teteo\source\repos\DashPlat\DashPlat\obj\Debug\DashPlat.csproj.GenerateResource.cache
+C:\Users\teteo\source\repos\DashPlat\DashPlat\obj\Debug\DashPlat.csproj.CoreCompileInputs.cache
+C:\Users\teteo\source\repos\DashPlat\DashPlat\obj\Debug\DashPlat.exe
+C:\Users\teteo\source\repos\DashPlat\DashPlat\obj\Debug\DashPlat.pdb
